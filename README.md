@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umberto
 - 👀 I’m interested in ... everything related to artificial intelligences implementation
-- 🌱 I’m currently learning ... react, tailwind, python, bash
+- 🌱 I’m currently learning ... python, bash
 - 💞️ I’m looking to collaborate on ... web and mobile app
 - 📫 How to reach me ... contact me here
 - 😄 Pronouns: ... null
